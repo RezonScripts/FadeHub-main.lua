@@ -1,0 +1,2 @@
+# FadeHub-main.lua
+Yes
